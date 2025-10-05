@@ -1,16 +1,23 @@
 # Kanva
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+<img width="825" height="235" alt="kanva-logo" src="https://github.com/user-attachments/assets/3e8ded10-9264-46cc-ab01-efdaf629fb4e" />
+on" src="" />
 
 A collaborative project management application built with modern web technologies. This Kanva provides real-time Kanban board functionality with comprehensive project management features.
-
-![Kanva](https://github.com/adityadutt29/kanva/blob/develop/demo.gif)
 
 <p align="center">
   <a href="https://github.com/adityadutt29">
     <img alt="GitHub: Aditya Dutt" src="https://img.shields.io/github/followers/adityadutt29?style=social" target="_blank" />
   </a>
 </p>
+
+## Screenshots
+<img width="1444" height="834" alt="1" src="https://github.com/user-attachments/assets/6d195989-7140-4de5-9394-6d3bb1f2eda6" />
+<img width="1443" height="837" alt="2" src="https://github.com/user-attachments/assets/eff9542d-e846-4592-9d84-977da66ccaa9" />
+<img width="1442" height="835" alt="3" src="https://github.com/user-attachments/assets/a345ccd4-4b13-4dea-b21a-15aa26e22685" />
+<img width="1447" height="841" alt="4" src="https://github.com/user-attachments/assets/7e2923a0-0f79-48d5-9f18-d3ff6b6c7381" />
+
+
 
 ## Table of Contents
 - [Overview](#overview)
