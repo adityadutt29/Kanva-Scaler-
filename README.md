@@ -1,7 +1,7 @@
 # Kanva
 
-<img width="825" height="235" alt="kanva-logo" src="https://github.com/user-attachments/assets/3e8ded10-9264-46cc-ab01-efdaf629fb4e" />
-on" src="" />
+<img width="250" height="70" alt="kanva-logo" src="https://github.com/user-attachments/assets/3e8ded10-9264-46cc-ab01-efdaf629fb4e" />
+
 
 A collaborative project management application built with modern web technologies. This Kanva provides real-time Kanban board functionality with comprehensive project management features.
 
@@ -11,12 +11,16 @@ A collaborative project management application built with modern web technologie
   </a>
 </p>
 
+## Demo Video
+
+
+
+
 ## Screenshots
 <img width="1444" height="834" alt="1" src="https://github.com/user-attachments/assets/6d195989-7140-4de5-9394-6d3bb1f2eda6" />
 <img width="1443" height="837" alt="2" src="https://github.com/user-attachments/assets/eff9542d-e846-4592-9d84-977da66ccaa9" />
 <img width="1442" height="835" alt="3" src="https://github.com/user-attachments/assets/a345ccd4-4b13-4dea-b21a-15aa26e22685" />
 <img width="1447" height="841" alt="4" src="https://github.com/user-attachments/assets/7e2923a0-0f79-48d5-9f18-d3ff6b6c7381" />
-
 
 
 ## Table of Contents
@@ -40,9 +44,7 @@ A collaborative project management application built with modern web technologie
 
 This is a full-featured Kanva built for learning purposes with a focus on real-time collaboration, scalability, and modern web development practices. The application allows users to create workspaces, boards, lists (columns), and cards to organize and track their work effectively.
 
-### [Demo](https://kanva.vercel.app/)
-
-## Features 🤩
+## 🚀 Features
 
 ### Core Features
 - **User Authentication**: Login/Register with JWT token authentication
@@ -241,29 +243,17 @@ For detailed architectural information:
 - Add file attachments to cards
 - Enhance activity tracking with more detailed analytics
 
-## Support
+## 📄 License
 
-Reach out to the maintainer at one of the following places:
+This project is licensed under the terms specified in the LICENSE file.
 
-- [Author GitHub](https://github.com/adityadutt29)
+## 📞 Contact
+For any questions or support, please contact:
+- **Aditya Dutt** | [Github](https://github.com/adityadutt29) | [Linkedin](https://www.linkedin.com/in/adityadutt29/).
+- **Email**: <adityadutt29@yahoo.com>
 
-If you need to contact the maintainer directly: adityadutt29@yahoo.com
+---
 
-## Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
-
-Please make sure to update tests as appropriate and follow the existing code style.
-
-## License
-
-This project is licensed under the **MIT license**.
-
-See [LICENSE](LICENSE) for more information.
+<div align="center">
+A Project made by <b>Aditya Dutt</b>
+</div>
