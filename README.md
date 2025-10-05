@@ -210,10 +210,6 @@ The seed script creates:
 - 3 sample comments
 - 4 sample activity log entries
 
-## API Documentation
-
-For detailed API endpoint documentation, see [api-reference.md](./api-reference.md).
-
 ## Architecture
 
 For detailed architectural information:
