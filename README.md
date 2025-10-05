@@ -13,7 +13,7 @@ A collaborative project management application built with modern web technologie
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/b43d6762-1b4a-41f5-ba0f-29b6e73e6e49
+[![Demo Video](https://img.youtube.com/vi/ebUVfSngQGM/0.jpg)](https://www.youtube.com/watch?v=ebUVfSngQGM)
 
 
 ## Screenshots
