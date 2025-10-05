@@ -1,6 +1,6 @@
 # Kanva
 
-<img width="250" height="70" alt="kanva-logo" src="https://github.com/user-attachments/assets/3e8ded10-9264-46cc-ab01-efdaf629fb4e" />
+<img align=center width="250" height="70" alt="kanva-logo" src="https://github.com/user-attachments/assets/3e8ded10-9264-46cc-ab01-efdaf629fb4e" />
 
 
 A collaborative project management application built with modern web technologies. This Kanva provides real-time Kanban board functionality with comprehensive project management features.
@@ -13,7 +13,7 @@ A collaborative project management application built with modern web technologie
 
 ## Demo Video
 
-
+https://github.com/user-attachments/assets/b43d6762-1b4a-41f5-ba0f-29b6e73e6e49
 
 
 ## Screenshots
