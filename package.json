@@ -1,0 +1,30 @@
+{
+  "name": "kanva",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm run start",
+    "lint": "cd frontend && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityadutt29/kanva.git"
+  },
+  "keywords": [],
+  "author": "Aditya Dutt <adityadutt29@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityadutt29/kanva/issues"
+  },
+  "homepage": "https://github.com/adityadutt29/kanva#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    
+    "eslint-plugin-prettier": "^5.0.0",
+    "semantic-release": "^23.0.2"
+  }
+}

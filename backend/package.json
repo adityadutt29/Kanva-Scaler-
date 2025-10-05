@@ -1,0 +1,33 @@
+{
+  "name": "kanva-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx ts-node --esm server.ts",
+    "start": "NODE_ENV=production npx ts-node --esm server.ts",
+    "build": "cd ../frontend && npm run build"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.4",
+    "shortid": "^2.2.16",
+    "uniqid": "^5.4.0",
+    "bcrypt": "^5.1.1",
+    "cookie": "^0.6.0",
+    "dotenv": "^17.2.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.7.0",
+    "next": "^13.5.6",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/node": "^24.6.2",
+    "@types/react": "19.2.0",
+    "@types/socket.io": "^3.0.1",
+    "@types/socket.io-client": "^1.4.36",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.2"
+  }
+}
